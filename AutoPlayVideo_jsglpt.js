@@ -7,6 +7,7 @@
 // @match        https://jsglpt.gdedu.gov.cn/ncts/*
 // @require      https://jsglpt.gdedu.gov.cn/js/jquery/jquery-1.12.4.min.js
 // @icon         https://www.google.com/s2/favicons?domain=gdedu.gov.cn
+// @downloadURL  https://raw.githubusercontent.com/tpu01yzx/AutoPlayVideo_jsglpt/main/AutoPlayVideo_jsglpt.js
 // @grant        none
 // ==/UserScript==
 
