@@ -17,10 +17,10 @@
     var main_func = function() {
         var $ = $ || window.$;
 
-        var times = $('input[id^="time_"]');
-        if(times && times.length > 0) {
-            times.each(function(){ this.remove(); });
-        }
+        //var times = $('input[id^="time_"]');
+        //if(times && times.length > 0) {
+        //    times.each(function(){ this.remove(); });
+        //}
 
         var player = player || window.player;
         var isComplete = isComplete || window.isComplete;
